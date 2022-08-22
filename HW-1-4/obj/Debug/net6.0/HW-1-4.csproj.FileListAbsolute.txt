@@ -1,0 +1,15 @@
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\bin\Debug\net6.0\HW-1-4.exe
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\bin\Debug\net6.0\HW-1-4.deps.json
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\bin\Debug\net6.0\HW-1-4.runtimeconfig.json
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\bin\Debug\net6.0\HW-1-4.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\bin\Debug\net6.0\HW-1-4.pdb
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\HW-1-4.csproj.AssemblyReference.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\HW-1-4.GeneratedMSBuildEditorConfig.editorconfig
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\HW-1-4.AssemblyInfoInputs.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\HW-1-4.AssemblyInfo.cs
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\HW-1-4.csproj.CoreCompileInputs.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\HW-1-4.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\refint\HW-1-4.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\HW-1-4.pdb
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\HW-1-4.genruntimeconfig.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-1\HW-1-4\obj\Debug\net6.0\ref\HW-1-4.dll
