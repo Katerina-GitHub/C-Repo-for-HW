@@ -1,0 +1,15 @@
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\bin\Debug\net6.0\task2.exe
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\bin\Debug\net6.0\task2.deps.json
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\bin\Debug\net6.0\task2.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\bin\Debug\net6.0\task2.pdb
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\task2.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\refint\task2.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\task2.pdb
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-2\task2\obj\Debug\net6.0\ref\task2.dll
