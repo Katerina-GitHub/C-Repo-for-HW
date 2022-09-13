@@ -1,0 +1,15 @@
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\bin\Debug\net6.0\hw7.1.exe
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\bin\Debug\net6.0\hw7.1.deps.json
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\bin\Debug\net6.0\hw7.1.runtimeconfig.json
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\bin\Debug\net6.0\hw7.1.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\bin\Debug\net6.0\hw7.1.pdb
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\hw7.1.csproj.AssemblyReference.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\hw7.1.GeneratedMSBuildEditorConfig.editorconfig
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\hw7.1.AssemblyInfoInputs.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\hw7.1.AssemblyInfo.cs
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\hw7.1.csproj.CoreCompileInputs.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\hw7.1.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\refint\hw7.1.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\hw7.1.pdb
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\hw7.1.genruntimeconfig.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-7\hw7.1\obj\Debug\net6.0\ref\hw7.1.dll
