@@ -1,0 +1,15 @@
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\bin\Debug\net6.0\task9.3.exe
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\bin\Debug\net6.0\task9.3.deps.json
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\bin\Debug\net6.0\task9.3.runtimeconfig.json
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\bin\Debug\net6.0\task9.3.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\bin\Debug\net6.0\task9.3.pdb
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\task9.3.csproj.AssemblyReference.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\task9.3.GeneratedMSBuildEditorConfig.editorconfig
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\task9.3.AssemblyInfoInputs.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\task9.3.AssemblyInfo.cs
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\task9.3.csproj.CoreCompileInputs.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\task9.3.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\refint\task9.3.dll
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\task9.3.pdb
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\task9.3.genruntimeconfig.cache
+\\secretar\бюро москва ивс технолоджи\Общие офис\временная\HW-9\task9.3\obj\Debug\net6.0\ref\task9.3.dll
